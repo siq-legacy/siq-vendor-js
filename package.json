@@ -8,7 +8,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "csi": "git+ssh://git@github.com:siq/csi.git#1.0.6"
+    "csi": "git+ssh://git@github.com:siq/csi.git"
   },
   "devDependencies": {
     "coffee-script": "~1.3.3",
